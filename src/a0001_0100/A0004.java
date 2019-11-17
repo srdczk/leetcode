@@ -1,4 +1,4 @@
-package first;
+package a0001_0100;
 
 /**
  * created by srdczk 2019/11/6

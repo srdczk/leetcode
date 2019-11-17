@@ -1,7 +1,6 @@
-package first;
+package a0001_0100;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * created by srdczk 2019/11/6
