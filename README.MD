@@ -8,7 +8,7 @@
 
 [301 - 400](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/page_index.md)
 
-[401 - 500](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500)
+[401 - 500](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/page_index.md)
 
-[501 - 600](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600)
+[501 - 600](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/page_index.md)
 
