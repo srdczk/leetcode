@@ -9,6 +9,10 @@
 
 [5 Longest Palindromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0005.java)
 
+[39 Combination Sum](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0039.java)
+
+[40 Combination Sum II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0040.java)
+
 [45 Jump Game II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0045.java)
 
 [46 Permutations](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0046.java)
