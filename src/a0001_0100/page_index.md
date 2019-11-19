@@ -18,3 +18,7 @@
 [46 Permutations](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0046.java)
 
 [47 Permutations II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0047.java)
+
+[51 N Queens](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0051.java)
+
+[52 N Queens II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0052.java)
