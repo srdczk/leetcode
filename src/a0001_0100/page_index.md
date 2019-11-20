@@ -22,3 +22,5 @@
 [51 N Queens](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0051.java)
 
 [52 N Queens II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0052.java)
+
+[96 Unique Binary Search Trees](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0096.java)
