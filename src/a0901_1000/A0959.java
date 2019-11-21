@@ -15,13 +15,14 @@ public class A0959 {
         }
 
         private int findFather(int i) {
-            Stack<Integer> stack = new Stack<>();
+            int s = i;
             while (f[i] != i) {
-                stack.push(i);
                 i = f[i];
             }
-            while (!stack.isEmpty()) {
-                f[stack.pop()] = i;
+            while (s != i) {
+                int t = f[s];
+                f[s] = i;
+                s = t;
             }
             return i;
         }
