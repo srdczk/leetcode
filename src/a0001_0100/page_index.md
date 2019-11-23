@@ -9,6 +9,8 @@
 
 [5 Longest Palindromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0005.java)
 
+[31 Next Permutation](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0031.java)
+
 [39 Combination Sum](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0039.java)
 
 [40 Combination Sum II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0040.java)
@@ -22,6 +24,8 @@
 [51 N Queens](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0051.java)
 
 [52 N Queens II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0052.java)
+
+[77 Combinations](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0077.java)
 
 [78 Subset](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0078.java)
 
