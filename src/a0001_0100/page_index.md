@@ -29,6 +29,8 @@
 
 [78 Subset](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0078.java)
 
+[84 Largest Rectangle In Histogram](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0084.java)
+
 [90 Subset II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0090.java)
 
 [94 Binary Tree Inorder Traversal](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0094.java)
