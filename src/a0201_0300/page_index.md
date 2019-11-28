@@ -14,3 +14,9 @@
 [224 Basic Calculator](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0224.java)
 
 [227 Basic Calculator II](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0227.java)
+
+[295 Find Median From Data Stream](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0295.java)
+
+[297 Serialize And Deserialize Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0297.java)
+
+[300 Longest Increasing Subsequence](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0300.java)
