@@ -7,4 +7,6 @@
 
 [473 Matchsticks to Square](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0473.java)
 
+[474 Ones and Zeroes](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0474.java)
+
 [480 Sliding Window Median](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0480.java)
