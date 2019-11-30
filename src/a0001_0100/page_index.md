@@ -37,6 +37,8 @@
 
 [90 Subset II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0090.java)
 
+[91 Decode Ways](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0091.java)
+
 [94 Binary Tree Inorder Traversal](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0094.java)
 
 [96 Unique Binary Search Trees](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0096.java)
