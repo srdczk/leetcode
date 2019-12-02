@@ -45,6 +45,8 @@
 
 [84 Largest Rectangle In Histogram](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0084.java)
 
+[85 Maximal Rectangle](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0085.java)
+
 [90 Subset II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0090.java)
 
 [91 Decode Ways](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0091.java)
