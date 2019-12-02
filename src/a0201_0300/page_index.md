@@ -17,11 +17,15 @@
 
 [230 Kth Smallest Element In a BST](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0230.java)
 
+[233 Number of Digit One](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0233.java)
+
 [239 Sliding Window Maximum](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0239.java)
 
 [263 Ugly Number](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0263.java)
 
 [264 Ugly Number II](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0264.java)
+
+[279 Perfect Squares](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0279.java)
 
 [295 Find Median From Data Stream](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0295.java)
 
