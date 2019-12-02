@@ -9,7 +9,13 @@
 
 [5 Longest Palindromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0005.java)
 
+[28 Implement StrStr](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0028.java)
+
 [31 Next Permutation](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0031.java)
+
+[36 Valid Sudoku](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0036.java)
+
+[37 Sudoku Solver](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0037.java)
 
 [39 Combination Sum](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0039.java)
 
