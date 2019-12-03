@@ -7,4 +7,8 @@
 
 [322 Coin Change](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0322.java)
 
+[386 Lexicographical Numbers](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0386.java)
+
+[388 Longest Absolute File Path](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0388.java)
+
 [394 Decode String](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0394.java)
