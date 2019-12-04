@@ -9,6 +9,8 @@
 
 [213 House Robber II](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0213.java)
 
+[214 Shortest Palindrome](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0214.java)
+
 [215 Kth Largest Element in an Array](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0215.java)
 
 [224 Basic Calculator](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0224.java)
