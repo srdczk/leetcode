@@ -9,6 +9,8 @@
 
 [5 Longest Palindromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0005.java)
 
+[22 Generate Parentheses](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0022.java)
+
 [28 Implement StrStr](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0028.java)
 
 [31 Next Permutation](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0031.java)
@@ -20,6 +22,8 @@
 [39 Combination Sum](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0039.java)
 
 [40 Combination Sum II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0040.java)
+
+[42 Trapping Rain Water](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0042.java)
 
 [45 Jump Game II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0045.java)
 
