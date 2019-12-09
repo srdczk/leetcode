@@ -3,7 +3,11 @@
 
 [206 Reverse Linked List](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0206.java)
 
+[207 Course Schedule](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0207.java)
+
 [208 Implement Trie (Prefix Tree)](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0208.java)
+
+[210 Course Schedule II](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0210.java)
 
 [212 Word Search II](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0212.java)
 
