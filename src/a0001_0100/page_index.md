@@ -9,6 +9,8 @@
 
 [5 Longest Palindromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0005.java)
 
+[10 Regular Expression Matching](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0010.java)
+
 [22 Generate Parentheses](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0022.java)
 
 [28 Implement StrStr](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0028.java)
@@ -18,6 +20,8 @@
 [36 Valid Sudoku](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0036.java)
 
 [37 Sudoku Solver](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0037.java)
+
+[38 Count and Say](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0038.java)
 
 [39 Combination Sum](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0039.java)
 
