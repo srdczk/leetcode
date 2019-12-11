@@ -45,6 +45,8 @@
 
 [60 Permutation Sequence](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0060.java)
 
+[72 Edit Distance](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0072.java)
+
 [77 Combinations](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0077.java)
 
 [78 Subset](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0078.java)
