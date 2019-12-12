@@ -41,6 +41,8 @@
 
 [52 N Queens II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0052.java)
 
+[53 Maximum Subarray](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0053.java)
+
 [57 Insert Interval](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0057.java)
 
 [60 Permutation Sequence](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0060.java)
