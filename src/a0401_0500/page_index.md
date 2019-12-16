@@ -1,6 +1,8 @@
 ### 401 - 500
 [402 Remove K Digits](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0402.java)
 
+[421 Maximum Xor of Two Numbers in an Array](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0421.java)
+
 [450 Delete Node In a BST](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0450.java)
 
 [452 Minimum Number of Arrows to Burst Balloons](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0452.java)
