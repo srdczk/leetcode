@@ -29,6 +29,8 @@
 
 [42 Trapping Rain Water](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0042.java)
 
+[44 Wildcard Matching](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0044.java)
+
 [45 Jump Game II](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0045.java)
 
 [46 Permutations](https://github.com/srdczk/leetcode/tree/master/src/a0001_0100/A0046.java)
