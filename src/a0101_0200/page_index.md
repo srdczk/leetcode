@@ -21,6 +21,10 @@
 
 [176 Second Highest Salary](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0176.sql)
 
+[180 Consecutive Numbers](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0180.sql)
+
+[182 Duplicate Emails](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0182.sql)
+
 [198 House Robber](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0198.java)
 
 [200 Number Of Islands](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0200.java)

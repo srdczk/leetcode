@@ -9,6 +9,8 @@
 
 [1117 Building H2O](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1117.java)
 
+[1131 Maximum of Absolute Value Expression](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1131.java)
+
 [1143 Longest Common Subsequence](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1143.java)
 
 [1186 Maximum Subarray Sum with One Deletion](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1186.java)
