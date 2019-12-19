@@ -10,3 +10,5 @@
 [547 Friend Circle](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0547.java)
 
 [560 Subarray Sum Equals K](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0560.java)
+
+[595 Big Countries](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0595.sql)

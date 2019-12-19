@@ -3,6 +3,10 @@
 
 [410 Split Array Largest Sum](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0410.java)
 
+[416 Partition Equal Subset Sum](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0416.java)
+
+[417 Pacific Atlantic Water Flow](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0417.java)
+
 [421 Maximum Xor of Two Numbers in an Array](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0421.java)
 
 [450 Delete Node In a BST](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0450.java)
@@ -16,3 +20,5 @@
 [474 Ones and Zeroes](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0474.java)
 
 [480 Sliding Window Median](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0480.java)
+
+[492 Construct the Rectangle](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0492.java)
