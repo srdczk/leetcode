@@ -7,7 +7,11 @@
 
 [417 Pacific Atlantic Water Flow](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0417.java)
 
+[419 Battleships in a Board](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0419.java)
+
 [421 Maximum Xor of Two Numbers in an Array](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0421.java)
+
+[424 Longest Repeating Character Replacement](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0424.java)
 
 [450 Delete Node In a BST](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0450.java)
 
