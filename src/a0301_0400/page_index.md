@@ -1,4 +1,8 @@
 ### 301 - 400
+[303 Range Sum Query Immutable](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0303.java)
+
+[307 Range Sum Query Mutable](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0307.java)
+
 [312 Burst Balloons](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0312.java)
 
 [313 Super Ugly Number](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0313.java)
