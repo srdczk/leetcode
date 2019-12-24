@@ -13,6 +13,8 @@
 
 [331 Verify Preorder Serialization of a Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0331.java)
 
+[338 Counting Bits](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0338.java)
+
 [357 Count Numbers With Unique Digits](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0357.java)
 
 [386 Lexicographical Numbers](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0386.java)
