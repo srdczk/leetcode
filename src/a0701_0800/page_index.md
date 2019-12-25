@@ -6,3 +6,5 @@
 [787 Cheapest Flights Within K Stops](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0787.java)
 
 [797 All Paths From Source to Target](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0797.java)
+
+[799 Champagne Tower](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0799.java)
