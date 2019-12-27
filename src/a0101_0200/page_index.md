@@ -11,6 +11,10 @@
 
 [137 Single Number II](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0137.java)
 
+[139 Word Break](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0139.java)
+
+[140 Word Break II](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0140.java)
+
 [141 Linked List Cycle](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0141.java)
 
 [142 Linked List Cycle II](https://github.com/srdczk/leetcode/tree/master/src/a0101_0200/A0142.java)
