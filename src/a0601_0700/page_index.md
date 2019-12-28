@@ -7,6 +7,8 @@
 
 [659 Split Array into Consecutive Subsequence](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0659.java)
 
+[670 Maximum Swap](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0670.java)
+
 [679 24 Game](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0679.java)
 
 [684 Redundant Connection](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0684.java)
