@@ -5,6 +5,8 @@
 
 [307 Range Sum Query Mutable](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0307.java)
 
+[310 Minimum Height Trees](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0310.java)
+
 [312 Burst Balloons](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0312.java)
 
 [313 Super Ugly Number](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0313.java)
@@ -20,6 +22,8 @@
 [337 House Robber III](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0337.java)
 
 [338 Counting Bits](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0338.java)
+
+[352 Data Stream as Disjoin Intervals](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0352.java)
 
 [357 Count Numbers With Unique Digits](https://github.com/srdczk/leetcode/tree/master/src/a0301_0400/A0357.java)
 
