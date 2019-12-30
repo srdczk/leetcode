@@ -12,3 +12,5 @@
 [679 24 Game](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0679.java)
 
 [684 Redundant Connection](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0684.java)
+
+[699 Falling Squares](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0699.java)
