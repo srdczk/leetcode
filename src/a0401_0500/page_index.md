@@ -3,6 +3,8 @@
 
 [410 Split Array Largest Sum](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0410.java)
 
+[413 Arithmetic Slices](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0413.java)
+
 [416 Partition Equal Subset Sum](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0416.java)
 
 [417 Pacific Atlantic Water Flow](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0417.java)
