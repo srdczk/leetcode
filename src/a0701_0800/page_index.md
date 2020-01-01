@@ -5,9 +5,13 @@
 
 [732 My Calendar III](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0732.java)
 
+[745 Prefix and Suffix Search](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0745.java)
+
 [785 Is Graph Bipartite](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0785.java)
 
 [787 Cheapest Flights Within K Stops](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0787.java)
+
+[793 Preimage Size of Factorial Zreoes Function](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0793.java)
 
 [797 All Paths From Source to Target](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0797.java)
 
