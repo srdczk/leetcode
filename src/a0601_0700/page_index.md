@@ -5,6 +5,8 @@
 
 [647 Palidromic Substring](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0647.java)
 
+[654 Maximum Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0654.java)
+
 [659 Split Array into Consecutive Subsequence](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0659.java)
 
 [670 Maximum Swap](https://github.com/srdczk/leetcode/tree/master/src/a0601_0700/A0670.java)
