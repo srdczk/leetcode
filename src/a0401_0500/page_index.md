@@ -15,6 +15,8 @@
 
 [424 Longest Repeating Character Replacement](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0424.java)
 
+[427 Construct Quad Tree](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0427.java)
+
 [450 Delete Node In a BST](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0450.java)
 
 [452 Minimum Number of Arrows to Burst Balloons](https://github.com/srdczk/leetcode/tree/master/src/a0401_0500/A0452.java)
