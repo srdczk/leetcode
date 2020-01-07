@@ -1,6 +1,8 @@
 ### 1101 - 1200
 [1103 Distribute Candies to People](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1103.java)
 
+[1104 Path in Zigzag Labelled Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1104.java)
+
 [1114 Print In Order](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1114.java)
 
 [1115 Print FooBar Alternately](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1115.java)
