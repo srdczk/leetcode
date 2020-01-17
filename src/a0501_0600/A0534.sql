@@ -1,0 +1,1 @@
+select x.player_id as player_id, x.event_date as event_date, sum(y.games_played) as games_played_so_far from Activity as x, Activity as y where x.player_id = y.player_id and y.event_date <= x.event_date group by x.player_id, x.event_date order by player_id, event_date;

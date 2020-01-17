@@ -13,6 +13,8 @@
 
 [533 Lonely Pixel II](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0533.java)
 
+[534 Game Play Analysis III](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0534.sql)
+
 [543 Diameter of Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0543.java)
 
 [547 Friend Circle](https://github.com/srdczk/leetcode/tree/master/src/a0501_0600/A0547.java)
