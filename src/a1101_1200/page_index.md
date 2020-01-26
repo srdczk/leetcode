@@ -17,4 +17,6 @@
 
 [1186 Maximum Subarray Sum with One Deletion](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1186.java)
 
+[1188 Design Bounded Blocking Queue](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1188.java)
+
 [1195 fizz buzz Multithreaded](https://github.com/srdczk/leetcode/tree/master/src/a1101_1200/A1195.java)

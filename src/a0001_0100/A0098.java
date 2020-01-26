@@ -16,10 +16,10 @@ public class A0098 {
         TreeNode right;
     }
     class Solution {
-        private boolean process(TreeNode node, long max, long min) {
+        private boolean process(TreeNode node, long maxVal, long minVal) {
             if (node == null) return true;
-            if (node.val >= max || node.val <= min) return false;
-            return process(node.left, node.val, min) && process(node.right, max, node.val);
+            if (node.val >= maxVal || node.val <= minVal) return false;
+            return process(node.left, node.val, minVal) && process(node.right, maxVal, node.val);
         }
         public boolean isValidBST(TreeNode node) {
             return process(node, Long.MAX_VALUE, Long.MIN_VALUE);
