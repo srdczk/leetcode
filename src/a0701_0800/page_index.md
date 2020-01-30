@@ -1,4 +1,6 @@
 ### 701 - 800
+[722 Remove Comments](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0722.java)
+
 [726 Number of Atoms](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0726.java)
 
 [731 My Calendar II](https://github.com/srdczk/leetcode/tree/master/src/a0701_0800/A0731.java)
