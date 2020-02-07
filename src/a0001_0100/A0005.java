@@ -5,29 +5,22 @@ package a0001_0100;
  */
 public class A0005 {
     class Solution {
-
-        /**
-         *
-         * manacher 算法, 先将字符串儿处理成无视基数, 偶数回文的形式:
-         * aaa -> #a#a#a#   baab -> #b#a#a#b#
-         * 根据两个变量R, C的关系分析是否是回文字符串, 时间复杂度为 O(n)
-         */
-        private char[] getProcessArray(String s) {
-            char[] chs = s.toCharArray(), res = new char[2 * s.length() + 1];
-            for (int i = 0; i < res.length; i++) {
-                if (i % 2 == 0) res[i] = '#';
-                else res[i] = chs[i / 2];
+        // manacher
+        private char[] getProcessChar(String s) {
+            char[] chs = new char[2 * s.length() + 1];
+            for (int i = 0; i < chs.length; i++) {
+                if (i % 2 == 0) chs[i] = '#';
+                else chs[i] = s.charAt(i / 2);
             }
-            return res;
+            return chs;
         }
-
         public String longestPalindrome(String s) {
-            if (s == null || s.length() < 2) return s;
-            int b = 0, len = 1;
-            char[] chs = getProcessArray(s);
-            int pArray[] = new int[chs.length], R = -1, C = -1;
+            if (s.length() < 2) return s;
+            char[] chs = getProcessChar(s);
+            int R = -1, C = -1, pArray[] = new int[chs.length], max = 1, start = 0;
             for (int i = 0; i < pArray.length; i++) {
-                pArray[i] = R > i ? Math.min(pArray[2 * C - i], R - i) : 1;
+                // 如果边界 > i
+                pArray[i] = R > i ? Math.min(R - i, pArray[2 * C - i]) : 1;
                 while (i + pArray[i] < chs.length && i - pArray[i] > -1) {
                     if (chs[i + pArray[i]] == chs[i - pArray[i]]) pArray[i]++;
                     else break;
@@ -36,12 +29,12 @@ public class A0005 {
                     R = i + pArray[i];
                     C = i;
                 }
-                if (pArray[i] - 1 > len) {
-                    len = pArray[i] - 1;
-                    b = (i - pArray[i] + 1) / 2;
+                if (pArray[i] > max) {
+                    max = pArray[i];
+                    start = (i - pArray[i] + 1) / 2;
                 }
             }
-            return s.substring(b, b + len);
+            return s.substring(start, start + max - 1);
         }
     }
 }
