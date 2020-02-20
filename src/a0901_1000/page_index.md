@@ -5,4 +5,6 @@
 
 [986 Interval List Intersections](https://github.com/srdczk/leetcode/tree/master/src/a0901_1000/A0986.java)
 
+[991 Broken Calculator](https://github.com/srdczk/leetcode/tree/master/src/a0901_1000/A0991.java)
+
 [998 Maximum Tree II](https://github.com/srdczk/leetcode/tree/master/src/a0901_1000/A0998.java)

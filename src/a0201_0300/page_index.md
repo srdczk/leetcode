@@ -45,6 +45,8 @@
 
 [279 Perfect Squares](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0279.java)
 
+[292 Nim Game](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0292.java)
+
 [295 Find Median From Data Stream](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0295.java)
 
 [297 Serialize And Deserialize Binary Tree](https://github.com/srdczk/leetcode/tree/master/src/a0201_0300/A0297.java)
